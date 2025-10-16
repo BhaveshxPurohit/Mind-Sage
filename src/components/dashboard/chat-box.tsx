@@ -319,7 +319,7 @@ const ChatBox = ({ isPro, user, symptoms, medications, messages }: Props) => {
   const [msgs, setMsgs] = useState<Message[]>(messages || []);
 
   // Initialize Gemini AI
-  const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GOOGLE_API_KEY || "AIzaSyCIusz1cw3yD8l8LVLcgsSXF_cBI-ueDdQ");
+  const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GOOGLE_API_KEY || "Paste the API key");
   const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
   const scrollToBottom = () => {
