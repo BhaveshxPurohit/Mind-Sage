@@ -42,19 +42,6 @@ export const MindSageBookingForm = () => {
             });
         })();
     }, []);
-
-    return (
-        <Cal
-            namespace="MindSage-doctors"
-            calLink="bhavanish-dhamnaskar-110djk/mindsage"
-            // https://cal.com/bhavanish-dhamnaskar-110djk
-            style={{width:"100%", height:"100%", overflow:"scroll"}}
-            config={{
-                layout: "month_view",
-                theme: "light"
-            }}
-        />
-    );
 };
 
 
