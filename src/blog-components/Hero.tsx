@@ -55,7 +55,7 @@ export default function Hero() {
         <Link
           href={`mailto:${author.email}?subject=${
             author.name.split(" ")?.[0] || "Hey"
-          }, Bhavanish...`}
+          }, Bhavesh...`}
           className="font-medium text-white bg-orange-500 rounded-full px-6 py-4"
         >
           Let&apos;s talk.
