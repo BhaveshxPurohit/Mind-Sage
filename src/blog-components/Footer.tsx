@@ -7,8 +7,8 @@ export default function Footer() {
       className="w-[1240px] max-w-full mx-auto container-bg rounded-full flex justify-between items-center py-3 px-8 text-base font-medium text-white/50"
     >
       <div>
-        <Link href="https://github.com/ibreslauer" className="hover:text-white">
-          Ivan Breslauer
+        <Link href="https://github.com/BhaveshxPurohit" className="hover:text-white">
+          Bhavesh Purohit
         </Link>
       </div>
       <div id="copyright" className="flex justify-end items-center font-normal">
