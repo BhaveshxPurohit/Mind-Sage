@@ -44,6 +44,3 @@ export const MindSageBookingForm = () => {
     }, []);
 };
 
-
-// https://cal.com/bhavanish-dhamnaskar-110djk/mindsage
-
