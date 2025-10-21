@@ -7,7 +7,7 @@ export function Footer() {
         <p className=" font-bold text-[20px] leading-loose text-muted-foreground text-left">
           Build with ❤️{" "}
           <Link
-            href="https://www.linkedin.com/in/dbhavanish/"
+            href="https://www.linkedin.com/in/purohitbhavesh/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold underline underline-offset-4"
