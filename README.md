@@ -5,6 +5,12 @@
 ## 🌟 Overview
 
 MindSage is an **AI-powered mental health assistant** designed to provide **real-time insights** and **personalized recommendations** to help users track and improve their well-being. Built with cutting-edge technologies, it ensures **high performance**, **scalability**, and an intuitive user experience.
+<img width="1655" height="780" alt="image" src="https://github.com/user-attachments/assets/ba7485fa-38ad-4ee4-9456-4324a629d3e3" />
+<img width="1206" height="660" alt="image" src="https://github.com/user-attachments/assets/0dea74c9-790c-4e4d-b94a-72609664beb6" />
+<img width="1209" height="659" alt="image" src="https://github.com/user-attachments/assets/69dafb88-d81d-4a3b-b6b5-feb2bd21ebd2" />
+<img width="1206" height="649" alt="image" src="https://github.com/user-attachments/assets/4d445778-503e-41f4-94d4-fea0754fa362" />
+
+
 
 ## 🚀 Features
 
@@ -35,14 +41,6 @@ MindSage is an **AI-powered mental health assistant** designed to provide **real
 
 ### **AI Integration**
 - Gemini API / Google Generative AI
-
-🎥 Video Demo
-
-🔹 Watch the full demonstration of the Showcase AI Agent in action:
-
-https://drive.google.com/file/d/1Dn24yt3q6vZWLx062NZ1VZ1DMAinXpyP/view?usp=drive_link
-
-
 
 ## 📁 Project Structure
 
